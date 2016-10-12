@@ -6,7 +6,7 @@
   "author": "izolate <@izolate>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/izolate/flexboxgrid-sss.git"
+    "url": "git://github.com/izolate/flexboxgrid.sss.git"
   },
   "license": "MIT",
   "dependencies": {
