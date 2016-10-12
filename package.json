@@ -1,0 +1,18 @@
+{
+  "name": "flexboxgrid-sss",
+  "version": "1.0.0",
+  "description": "SugarSS-flavored Flexbox Grid",
+  "main": "flexboxgrid.sss",
+  "author": "izolate <@izolate>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/izolate/flexboxgrid-sss.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "css-import": "^0.0.1",
+    "flexboxgrid": "^6.3.1",
+    "postcss": "^5.2.4",
+    "sugarss": "^0.2.0"
+  }
+}
