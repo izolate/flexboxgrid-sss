@@ -1,10 +1,15 @@
 # Flexbox Grid (SugarSS)
 
-It's **[Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid)** but in the style of [SugarSS](https://github.com/postcss/sugarss).
-
-Because SugarSS can't import regular CSS.
+A **[Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid)** variant written in [SugarSS](https://github.com/postcss/sugarss). Because the latter can't import regular CSS. :sob:
 
 ## Install
+
+### yarn
+```bash
+yarn add flexboxgrid.sss
+```
+
+### [npm](https://www.npmjs.com/package/flexboxgrid.sss)
 
 ```bash
 npm i flexboxgrid-sss
