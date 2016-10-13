@@ -12,5 +12,5 @@ yarn add flexboxgrid.sss
 ### [npm](https://www.npmjs.com/package/flexboxgrid.sss)
 
 ```bash
-npm i flexboxgrid-sss
+npm i flexboxgrid.sss
 ```
